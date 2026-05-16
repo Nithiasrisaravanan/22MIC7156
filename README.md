@@ -1,4 +1,5 @@
-<img width="1918" height="465" alt="image" src="https://github.com/user-attachments/assets/8b71dd79-7557-4837-8173-605e49b8748e" />
+<img width="966" height="741" alt="image" src="https://github.com/user-attachments/assets/7c81ecae-bce5-41a6-957c-315815b2d0c4" />
+
 <img width="536" height="450" alt="Screenshot 2026-05-16 181646" src="https://github.com/user-attachments/assets/9e7f5cc4-c896-4a9e-8ba9-5273e85d9754" />
 <img width="938" height="1010" alt="Screenshot 2026-05-16 182612" src="https://github.com/user-attachments/assets/6737355f-b496-492a-9044-deef98c69589" />
 # Backend Services Assignment
